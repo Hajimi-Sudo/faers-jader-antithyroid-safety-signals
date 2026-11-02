@@ -59,6 +59,5 @@ server-only execution order and expected aggregate outputs.
 
 ## License
 
-Add the repository license selected by the authors before public release. The
-source code is provided for reproducibility of the accompanying study and
-does not grant access to restricted or redistributed adverse-event records.
+This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for the full license text.
+The source code is provided for reproducibility of the accompanying study and does not grant access to restricted or redistributed adverse-event records.
