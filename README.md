@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23885918.svg)](https://doi.org/10.5281/zenodo.23885918)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # FAERS and JADER antithyroid pharmacovigilance analysis
 
 This repository contains the analysis code for the study of hepatic and
@@ -5,6 +8,7 @@ hematologic disproportional-reporting signals for methimazole and
 propylthiouracil in FAERS and JADER.
 
 Repository: <https://github.com/Hajimi-Sudo/faers-jader-antithyroid-safety-signals>
+Permanent Zenodo Archive: <https://doi.org/10.5281/zenodo.23885918>
 
 The code is designed for execution on an analysis server. Raw FAERS/JADER
 files, report-level derived data, publication full text, credentials, and
